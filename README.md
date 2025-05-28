@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm [Muhammad Saidmurodov] — IT & Cybersecurity Enthusiast 🔐
+# 👋 Hi there, I'm Muhammad — IT & Cybersecurity Enthusiast 🔐
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects reflect my commitment to strengthening security operations and processes.
 
