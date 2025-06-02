@@ -16,19 +16,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react)
-
----
-
 ## 🤳 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukhammad-saidmurodov/)
 
-<!-- Optional: Add your contact info or email here if comfortable -->
-
 ---
 
-<!-- Badges are optional and can be added later as you earn certifications or achievements -->
