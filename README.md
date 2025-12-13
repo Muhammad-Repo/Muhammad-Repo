@@ -27,7 +27,7 @@ I'm passionate about cybersecurity, scripting, and learning offensive security t
 
 ## 🧠 Tools & Technology
 
-### Newtworking
+### Networking
 
 ![Windows 10](https://img.shields.io/badge/OS-Windows%2010-0078D6?style=flat&logo=windows&logoColor=white&labelColor=000000)
 ![Sysmon](https://img.shields.io/badge/Tool-Sysmon-6A5ACD?style=flat&labelColor=000000)
@@ -51,14 +51,14 @@ I'm passionate about cybersecurity, scripting, and learning offensive security t
 ### Vunlerability Managment
 ![Tenable](https://img.shields.io/badge/Tool-Tenable-00B2A9?style=flat&labelColor=000000)
 
-### Infrastracture & Virtualisation 
+### infrastructure & Virtualisation 
 ![Microsoft Azure](https://img.shields.io/badge/Cloud-Microsoft%20Azure-008AD7?style=flat&labelColor=000000)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat&labelColor=000000)
 ![VirtualBox](https://img.shields.io/badge/VM-VirtualBox-2C6BAB?style=flat&labelColor=000000)
 ![VMware](https://img.shields.io/badge/VM-VMware-607078?style=flat&labelColor=000000)
 
 
-### Quary language
+### Quarry language
 ![KQL](https://img.shields.io/badge/Query%20Language-KQL-1E90FF?style=flat&labelColor=000000)
 ![SPL](https://img.shields.io/badge/Query%20Language-SPL-FF9900?style=flat&labelColor=000000)
 ![SQL](https://img.shields.io/badge/Query%20Language-SQL-336791?style=flat&labelColor=000000)
