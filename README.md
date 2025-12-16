@@ -48,7 +48,7 @@ I'm passionate about cybersecurity, scripting, and learning offensive security t
 ![Suricata](https://img.shields.io/badge/NIDS-Suricata-FF4500?style=flat&labelColor=000000)
 ![VirusTotal](https://img.shields.io/badge/Tool-VirusTotal-4682B4?style=flat&labelColor=000000)
 
-### Vulnerability Managment
+### Vulnerability Management
 ![Tenable](https://img.shields.io/badge/Tool-Tenable-00B2A9?style=flat&labelColor=000000)
 
 ### Virtualization
