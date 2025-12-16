@@ -7,12 +7,12 @@ I'm passionate about cybersecurity, scripting, and learning offensive security t
 ---
 ## 🤺 System Hardening & STIG compliance
 
-- 🔧 **[DISA STIG Remidiation PowerShell Scripts (Windows 10/11)](https://github.com/Muhammad-Repo/Scripts-Automations/tree/main/STIGS)**
+- 🔧 **[DISA STIG Remediation PowerShell Scripts (Windows 10/11)](https://github.com/Muhammad-Repo/Scripts-Automations/tree/main/STIGS)**
 
 
 
 ## ⚠️ Vulnerability Management Projects
-
+      
 - 🔍 **[Vulnerability Management Program Implementation](https://github.com/Muhammad-Repo/Vulnerability-Management)**
 - 🛠️ **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Muhammad-Repo/Scripts-Automations)**
 
@@ -48,17 +48,17 @@ I'm passionate about cybersecurity, scripting, and learning offensive security t
 ![Suricata](https://img.shields.io/badge/NIDS-Suricata-FF4500?style=flat&labelColor=000000)
 ![VirusTotal](https://img.shields.io/badge/Tool-VirusTotal-4682B4?style=flat&labelColor=000000)
 
-### Vunlerability Managment
+### Vulnerability Managment
 ![Tenable](https://img.shields.io/badge/Tool-Tenable-00B2A9?style=flat&labelColor=000000)
 
-### infrastructure & Virtualisation 
+### Virtualization
 ![Microsoft Azure](https://img.shields.io/badge/Cloud-Microsoft%20Azure-008AD7?style=flat&labelColor=000000)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat&labelColor=000000)
 ![VirtualBox](https://img.shields.io/badge/VM-VirtualBox-2C6BAB?style=flat&labelColor=000000)
 ![VMware](https://img.shields.io/badge/VM-VMware-607078?style=flat&labelColor=000000)
 
 
-### Quarry language
+### Query language
 ![KQL](https://img.shields.io/badge/Query%20Language-KQL-1E90FF?style=flat&labelColor=000000)
 ![SPL](https://img.shields.io/badge/Query%20Language-SPL-FF9900?style=flat&labelColor=000000)
 ![SQL](https://img.shields.io/badge/Query%20Language-SQL-336791?style=flat&labelColor=000000)
